@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/get-repos/static/css/main.274d1a5a.css",
+    "main.js": "/get-repos/static/js/main.5a912135.js",
+    "index.html": "/get-repos/index.html",
+    "main.274d1a5a.css.map": "/get-repos/static/css/main.274d1a5a.css.map",
+    "main.5a912135.js.map": "/get-repos/static/js/main.5a912135.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.274d1a5a.css",
+    "static/js/main.5a912135.js"
+  ]
+}
